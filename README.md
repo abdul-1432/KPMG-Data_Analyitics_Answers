@@ -62,5 +62,3 @@ By contributing, you'll help make this repository a valuable resource for the co
 This repository is licensed under the MIT License. You are free to use, modify, and distribute the code and content as long as you provide appropriate attribution and include the original license. For more details, please see the [LICENSE](LICENSE) file.
 
 Happy learning and data analyzing!
-
-*Note: This README is a template, and you should customize it to suit your specific repository and context.*
