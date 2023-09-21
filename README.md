@@ -1,5 +1,8 @@
 # KPMG Data Analytics Answers - Forage Data Insights
 
+![KPMG Logo](https://www.kpmg.com/logo.png)
+![KPMG Logo](https://www.kpmg.com/logo.png)
+
 Welcome to the KPMG Data Analytics Answers repository for the Forage Data Insights program! This repository contains solutions to the various tasks and exercises provided by KPMG as part of their Data Analytics program on the Forage platform. Whether you're a participant in the program looking for reference solutions or simply interested in exploring the world of data analytics, you're in the right place.
 
 ## Table of Contents
