@@ -32,7 +32,7 @@ Feel free to explore the folders and access the solutions you need.
 1. **Clone the Repository**: To get started, clone this repository to your local machine using Git. You can do this by running the following command in your terminal or Git client:
    
    ```
-   git clone https://github.com/your-username/kpmg-data-analytics-answers.git
+   git clone https://github.com/abdul-1432/KPMG-Data_Analyitics_Answers/tree/main/KPMG
    ```
 
 2. **Navigate to the Desired Task**: Once the repository is cloned, navigate to the folder corresponding to the task you are interested in (e.g., Task 1, Task 2, etc.).
